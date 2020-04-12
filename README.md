@@ -2,14 +2,14 @@
 
 ## Descripción de la práctica
 
-Consiste en la obtención de un dataset extraído de la página del programa SEER (The Surveillance, Epidemiology, and End Results) con la evolución histórica de los tipos de cáncer más importantes a través de técnicas de web scarping con un programa escrito en python.
+Consiste en la obtención de un dataset extraído de la página del programa SEER (The Surveillance, Epidemiology, and End Results) con la evolución histórica de los tipos de cáncer más importantes a través de técnicas de web scraping con un programa escrito en python.
 
 ## Miembros del equipo
 
 * Alfredo Rubio Navarro
 * Gabriel Loja Rodas
 
-## Descripción de los fichero
+## Descripción de los ficheros
 
 **src/query.py** : realiza la recoleción de los datos al fichero csv
 
