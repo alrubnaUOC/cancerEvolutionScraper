@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3749375.svg)](https://doi.org/10.5281/zenodo.3749375)
+
 # Práctica 1 - Web scraping 
 
 ## Descripción de la práctica
