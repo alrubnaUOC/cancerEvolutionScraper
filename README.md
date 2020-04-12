@@ -21,11 +21,11 @@ Consiste en la obtención de un dataset extraído de la página del programa SEE
 ## Guía de uso:
 `query.py [-t] [-a año] [-s] [-r] [-f ARCHIVO] [-h]`  
 
-  -t           recoge solo el total de todos los tipos de cáncer, si no se indica desglosa por tipos  
-  -a año       año del dataset (1975-2016), si no se indica se registran todos  
-  -s           desglosa el dataset por sexo  
-  -r           desglosa el dataset por raza  
-  -f ARCHIVO   nombre del archivo de salida SIN extensión, por defecto es 'evolucionCancer'  
-  -h           imprime la ayuda  
+  -t : recoge solo el total de todos los tipos de cáncer, si no se indica desglosa por tipos  
+  -a año : año del dataset (1975-2016), si no se indica se registran todos  
+  -s : desglosa el dataset por sexo  
+  -r : desglosa el dataset por raza  
+  -f ARCHIVO : nombre del archivo de salida SIN extensión, por defecto es 'evolucionCancer'  
+  -h : imprime la ayuda  
 
 El programa requiere la versión 3 de python.
