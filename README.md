@@ -13,8 +13,8 @@ Consiste en la obtención de un dataset extraído de la página del programa SEE
 
 **src/query.py** : realiza la recoleción de los datos al fichero csv
 
-**csv/dataset_tipos.csv** : fichero generado con los datos desglosados por raza y sexo de los principales tipos de cáncer
-**csv/dataset_totales.csv** : fichero generado con los datos totalizados (para todos los tipos de cáncer) desglosado
+**csv/evolucionCancer.csv** : fichero generado con los datos desglosados por raza y sexo de los principales tipos de cáncer
+**csv/evolucionCancerTotales.csv** : fichero generado con los datos totalizados (para todos los tipos de cáncer) desglosado
 
 **pdf/preguntas.pdf** : contiene las respuestas a las preguntas de la práctica
 
